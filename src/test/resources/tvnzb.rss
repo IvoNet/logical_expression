@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!--
+  ~ Copyright (c) 2008 - 2013 ivonet
+  ~
+  ~    Licensed under the Apache License, Version 2.0 (the "License");
+  ~    you may not use this file except in compliance with the License.
+  ~    You may obtain a copy of the License at
+  ~
+  ~        http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~    Unless required by applicable law or agreed to in writing, software
+  ~    distributed under the License is distributed on an "AS IS" BASIS,
+  ~    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~    See the License for the specific language governing permissions and
+  ~    limitations under the License.
+  -->
+
+<rss version="2.0">
+    <channel>
+        <title>TvNZB.com</title>
+        <link>http://www.tvnzb.com</link>
+        <description>TvNZB.com Automated RSS Feed</description>
+        <lastBuildDate>Tue, 31 Mar 2009 07:59:40 +0100</lastBuildDate>
+        <pubDate>Tue, 31 Mar 2009 07:59:40 +0100</pubDate>
+
+        <item>
+            <title>Law.And.Order.UK.S01E06.720p.HDTV.x264-BiA</title>
+            <link>http://www.tvnzb.com/nzb/18696</link>
+            <show_id>47</show_id>
+            <season>1</season>
+            <episode>6</episode>
+            <description># Other &amp; Misc. 1x06</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18696" length="324679" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 07:32:26 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Rules.of.Engagement.S03E05.720p.HDTV.X264-DIMENSION</title>
+            <link>http://www.tvnzb.com/nzb/18695</link>
+            <show_id>450</show_id>
+            <season>3</season>
+            <episode>5</episode>
+            <description>Rules of Engagement 3x05</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18695" length="156199" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 06:24:25 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>CSI.Miami.S07E20.720p.HDTV.X264-DIMENSION</title>
+            <link>http://www.tvnzb.com/nzb/18694</link>
+            <show_id>180</show_id>
+            <season>7</season>
+            <episode>20</episode>
+            <description>C.S.I. Miami 7x20</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18694" length="324135" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 06:20:43 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>CSI.Miami.S07E20.HDTV.XviD-LOL</title>
+            <link>http://www.tvnzb.com/nzb/18693</link>
+            <show_id>180</show_id>
+            <season>7</season>
+            <episode>20</episode>
+            <description>C.S.I. Miami 7x20</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18693" length="113719" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 06:05:30 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Castle.2009.S01E04.720p.HDTV.x264-CTU</title>
+            <link>http://www.tvnzb.com/nzb/18692</link>
+            <show_id>580</show_id>
+            <season>1</season>
+            <episode>4</episode>
+            <description>Castle 1x04</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18692" length="309203" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 05:31:16 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>One.Tree.Hill.S06E19.720p.HDTV.x264-CTU</title>
+            <link>http://www.tvnzb.com/nzb/18691</link>
+            <show_id>7</show_id>
+            <season>6</season>
+            <episode>19</episode>
+            <description>One Tree Hill 6x19</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18691" length="309243" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 05:25:51 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Castle.2009.S01E04.HDTV.XviD-XOR</title>
+            <link>http://www.tvnzb.com/nzb/18690</link>
+            <show_id>580</show_id>
+            <season>1</season>
+            <episode>4</episode>
+            <description>Castle 1x04</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18690" length="106172" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 05:25:24 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Medium.S05E08.HDTV.XviD-0TV</title>
+            <link>http://www.tvnzb.com/nzb/18689</link>
+            <show_id>34</show_id>
+            <season>5</season>
+            <episode>8</episode>
+            <description>Medium 5x08</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18689" length="107967" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 05:24:55 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Medium.S05E08.720p.HDTV.x264-CTU</title>
+            <link>http://www.tvnzb.com/nzb/18688</link>
+            <show_id>34</show_id>
+            <season>5</season>
+            <episode>8</episode>
+            <description>Medium 5x08</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18688" length="308872" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 05:24:41 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Saving.Grace.S02E12.HDTV.XviD-0TV</title>
+            <link>http://www.tvnzb.com/nzb/18687</link>
+            <show_id>404</show_id>
+            <season>2</season>
+            <episode>12</episode>
+            <description>Saving Grace 2x12</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18687" length="108201" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 05:24:05 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>The.Big.Bang.Theory.S02E19.HDTV.XviD-XOR</title>
+            <link>http://www.tvnzb.com/nzb/18686</link>
+            <show_id>449</show_id>
+            <season>2</season>
+            <episode>19</episode>
+            <description>The Big Bang Theory 2x19</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18686" length="54880" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:30:14 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Heroes.S03E21.720p.HDTV.X264-DIMENSION</title>
+            <link>http://www.tvnzb.com/nzb/18685</link>
+            <show_id>294</show_id>
+            <season>3</season>
+            <episode>21</episode>
+            <description>Heroes 3x21</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18685" length="309257" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:26:43 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>24.S07E16.720p.HDTV.X264-DIMENSION</title>
+            <link>http://www.tvnzb.com/nzb/18684</link>
+            <show_id>298</show_id>
+            <season>7</season>
+            <episode>16</episode>
+            <description>24 7x16</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18684" length="308992" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:25:53 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>How.I.Met.Your.Mother.S04E19.720p.HDTV.X264-DIMENSION</title>
+            <link>http://www.tvnzb.com/nzb/18683</link>
+            <show_id>206</show_id>
+            <season>4</season>
+            <episode>19</episode>
+            <description>How I Met Your Mother 4x19</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18683" length="156280" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:23:34 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>How.I.Met.Your.Mother.S04E19.HDTV.XviD-LOL</title>
+            <link>http://www.tvnzb.com/nzb/18682</link>
+            <show_id>206</show_id>
+            <season>4</season>
+            <episode>19</episode>
+            <description>How I Met Your Mother 4x19</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18682" length="56002" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:23:10 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>One.Tree.Hill.S06E19.HDTV.XviD-NoTV</title>
+            <link>http://www.tvnzb.com/nzb/18681</link>
+            <show_id>7</show_id>
+            <season>6</season>
+            <episode>19</episode>
+            <description>One Tree Hill 6x19</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18681" length="108631" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:22:22 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>My.Boys.S03E01.HDTV.XviD-2HD</title>
+            <link>http://www.tvnzb.com/nzb/18680</link>
+            <show_id>47</show_id>
+            <season>3</season>
+            <episode>1</episode>
+            <description># Other &amp; Misc. 3x01</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18680" length="55555" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:19:10 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Gossip.Girl.S02E20.HDTV.XviD-XOR</title>
+            <link>http://www.tvnzb.com/nzb/18679</link>
+            <show_id>452</show_id>
+            <season>2</season>
+            <episode>20</episode>
+            <description>Gossip Girl 2x20</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18679" length="105987" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:16:35 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Gossip.Girl.S02E20.720p.HDTV.x264-CTU</title>
+            <link>http://www.tvnzb.com/nzb/18678</link>
+            <show_id>452</show_id>
+            <season>2</season>
+            <episode>20</episode>
+            <description>Gossip Girl 2x20</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18678" length="309204" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:16:11 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>24.S07E16.HDTV.XviD-LOL</title>
+            <link>http://www.tvnzb.com/nzb/18677</link>
+            <show_id>298</show_id>
+            <season>7</season>
+            <episode>16</episode>
+            <description>24 7x16</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18677" length="107315" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:15:30 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Heroes.S03E21.HDTV.XviD-LOL</title>
+            <link>http://www.tvnzb.com/nzb/18676</link>
+            <show_id>294</show_id>
+            <season>3</season>
+            <episode>21</episode>
+            <description>Heroes 3x21</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18676" length="107409" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:14:59 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Two.and.a.Half.Men.S06E19.720p.HDTV.x264-CTU</title>
+            <link>http://www.tvnzb.com/nzb/18675</link>
+            <show_id>205</show_id>
+            <season>6</season>
+            <episode>19</episode>
+            <description>Two and a Half Men 6x19</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18675" length="155933" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:13:09 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>House.S05E19.HDTV.XviD-LOL</title>
+            <link>http://www.tvnzb.com/nzb/18673</link>
+            <show_id>164</show_id>
+            <season>5</season>
+            <episode>19</episode>
+            <description>House 5x19</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18673" length="107525" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:09:39 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Chuck.S02E18.HDTV.XviD-XOR</title>
+            <link>http://www.tvnzb.com/nzb/18672</link>
+            <show_id>455</show_id>
+            <season>2</season>
+            <episode>18</episode>
+            <description>Chuck 2x18</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18672" length="105014" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:08:45 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>GREEK.S02E11.HDTV.XviD-0TV</title>
+            <link>http://www.tvnzb.com/nzb/18671</link>
+            <show_id>388</show_id>
+            <season>2</season>
+            <episode>11</episode>
+            <description>Greek 2x11</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18671" length="107867" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:07:46 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>House.S05E19.720p.HDTV.X264-DIMENSION</title>
+            <link>http://www.tvnzb.com/nzb/18670</link>
+            <show_id>164</show_id>
+            <season>5</season>
+            <episode>19</episode>
+            <description>House 5x19</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18670" length="309098" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:07:08 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Two.and.a.Half.Men.S06E19.HDTV.XviD-NoTV</title>
+            <link>http://www.tvnzb.com/nzb/18669</link>
+            <show_id>205</show_id>
+            <season>6</season>
+            <episode>19</episode>
+            <description>Two and a Half Men 6x19</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18669" length="56028" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:06:26 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Chuck.S02E18.720p.HDTV.x264-CTU</title>
+            <link>http://www.tvnzb.com/nzb/18668</link>
+            <show_id>455</show_id>
+            <season>2</season>
+            <episode>18</episode>
+            <description>Chuck 2x18</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18668" length="308808" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:05:30 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Eli.Stone.S02E12.720p.HDTV.x264-BiA</title>
+            <link>http://www.tvnzb.com/nzb/18667</link>
+            <show_id>492</show_id>
+            <season>2</season>
+            <episode>12</episode>
+            <description>Eli Stone 2x12</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18667" length="309313" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 03:04:18 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>The.Big.Bang.Theory.S02E19.720p.HDTV.x264-CTU</title>
+            <link>http://www.tvnzb.com/nzb/18666</link>
+            <show_id>449</show_id>
+            <season>2</season>
+            <episode>19</episode>
+            <description>The Big Bang Theory 2x19</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18666" length="154701" type="application/x-nzb"/>
+            <pubDate>Tue, 31 Mar 2009 02:08:54 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Stewart.Lees.Comedy.Vehicle.S01E03.WS.PDTV.XviD-RiVER</title>
+            <link>http://www.tvnzb.com/nzb/18665</link>
+            <show_id>47</show_id>
+            <season>1</season>
+            <episode>3</episode>
+            <description># Other &amp; Misc. 1x03</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18665" length="78342" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 22:51:12 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Eli.Stone.S02E12.HDTV.XviD-BiA</title>
+            <link>http://www.tvnzb.com/nzb/18664</link>
+            <show_id>492</show_id>
+            <season>2</season>
+            <episode>12</episode>
+            <description>Eli Stone 2x12</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18664" length="114208" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 22:50:11 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Extreme.Fishing.With.Robson.Green.S02E05.WS.PDTV.XviD-FTP</title>
+            <link>http://www.tvnzb.com/nzb/18663</link>
+            <show_id>47</show_id>
+            <season>2</season>
+            <episode>5</episode>
+            <description># Other &amp; Misc. 2x05</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18663" length="115632" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 22:07:43 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Tonight.How.Safe.Is.Your.Hospital.WS.PDTV.XviD-REMAX</title>
+            <link>http://www.tvnzb.com/nzb/18661</link>
+            <show_id>47</show_id>
+            <season>1</season>
+            <episode>1</episode>
+            <description># Other &amp; Misc. 1x01</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18661" length="59784" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 22:02:58 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>The.Gadget.Show.S11E04.WS.PDTV.XviD-FTP</title>
+            <link>http://www.tvnzb.com/nzb/18660</link>
+            <show_id>47</show_id>
+            <season>11</season>
+            <episode>4</episode>
+            <description># Other &amp; Misc. 11x04</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18660" length="114389" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 22:02:32 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Panorama.S57E13.WS.PDTV.XviD-REMAX</title>
+            <link>http://www.tvnzb.com/nzb/18659</link>
+            <show_id>47</show_id>
+            <season>1</season>
+            <episode>1</episode>
+            <description># Other &amp; Misc. 1x01</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18659" length="77391" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 22:02:08 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Law.And.Order.UK.S01E06.WS.PDTV.XviD-RiVER</title>
+            <link>http://www.tvnzb.com/nzb/18658</link>
+            <show_id>47</show_id>
+            <season>1</season>
+            <episode>6</episode>
+            <description># Other &amp; Misc. 1x06</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18658" length="114904" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 22:01:42 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Dispatches.The.Trouble.With.Boris.WS.PDTV.XviD-REMAX</title>
+            <link>http://www.tvnzb.com/nzb/18657</link>
+            <show_id>47</show_id>
+            <season>1</season>
+            <episode>1</episode>
+            <description># Other &amp; Misc. 1x01</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18657" length="115874" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 22:01:13 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>United.States.of.Tara.S01E11.720p.HDTV.X264-DIMENSION</title>
+            <link>http://www.tvnzb.com/nzb/18656</link>
+            <show_id>570</show_id>
+            <season>1</season>
+            <episode>11</episode>
+            <description>United States of Tara 1x11</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18656" length="217298" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 20:49:57 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Watchdog.S24E23.WS.PDTV.XviD-REMAX</title>
+            <link>http://www.tvnzb.com/nzb/18655</link>
+            <show_id>47</show_id>
+            <season>24</season>
+            <episode>23</episode>
+            <description># Other &amp; Misc. 24x23</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18655" length="77391" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 20:26:29 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Hannah.Montana.S03E12.DSR.XviD-ETACH</title>
+            <link>http://www.tvnzb.com/nzb/18654</link>
+            <show_id>47</show_id>
+            <season>3</season>
+            <episode>12</episode>
+            <description># Other &amp; Misc. 3x12</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18654" length="58915" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 19:38:26 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Larry.The.Lawnmower.2009.03.24.720p.HDTV.x264-HDCP</title>
+            <link>http://www.tvnzb.com/nzb/18653</link>
+            <show_id>47</show_id>
+            <season>1</season>
+            <episode>1</episode>
+            <description># Other &amp; Misc. 1x01</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18653" length="216004" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 18:00:09 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Underbelly.S02E09.720p.HDTV.x264-BiA</title>
+            <link>http://www.tvnzb.com/nzb/18652</link>
+            <show_id>510</show_id>
+            <season>2</season>
+            <episode>9</episode>
+            <description>Underbelly 2x09</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18652" length="324071" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 16:36:10 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Man.v.Food.S01E15.720p.HDTV.x264-SYS</title>
+            <link>http://www.tvnzb.com/nzb/18651</link>
+            <show_id>574</show_id>
+            <season>1</season>
+            <episode>15</episode>
+            <description>Man V Food 1x15</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18651" length="163165" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 16:35:37 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Keeping.Up.With.The.Kardashians.S03E04.HDTV.XviD-SAiNTS</title>
+            <link>http://www.tvnzb.com/nzb/18650</link>
+            <show_id>47</show_id>
+            <season>3</season>
+            <episode>4</episode>
+            <description># Other &amp; Misc. 3x04</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18650" length="60106" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 16:34:48 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>My.Classic.Car.S13E06.WS.DSR.XviD-WaLMaRT</title>
+            <link>http://www.tvnzb.com/nzb/18649</link>
+            <show_id>47</show_id>
+            <season>13</season>
+            <episode>6</episode>
+            <description># Other &amp; Misc. 13x06</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18649" length="59607" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 15:48:13 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Verminators.S01E12.WS.PDTV.XviD-aAF</title>
+            <link>http://www.tvnzb.com/nzb/18648</link>
+            <show_id>47</show_id>
+            <season>1</season>
+            <episode>12</episode>
+            <description># Other &amp; Misc. 1x12</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18648" length="114273" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 13:13:27 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Sun.Sea.And.AE.S01E08.WS.PDTV.XviD-aAF</title>
+            <link>http://www.tvnzb.com/nzb/18647</link>
+            <show_id>47</show_id>
+            <season>1</season>
+            <episode>8</episode>
+            <description># Other &amp; Misc. 1x08</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18647" length="114073" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 13:12:50 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Celebrity.Juice.S02E05.WS.PDTV.XviD-aAF</title>
+            <link>http://www.tvnzb.com/nzb/18646</link>
+            <show_id>47</show_id>
+            <season>2</season>
+            <episode>5</episode>
+            <description># Other &amp; Misc. 2x05</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18646" length="58805" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 13:12:22 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Underbelly.A.Tale.Of.Two.Cities.S02E09.Judas.Kiss.HDTV.XviD-FoV</title>
+            <link>http://www.tvnzb.com/nzb/18645</link>
+            <show_id>510</show_id>
+            <season>2</season>
+            <episode>9</episode>
+            <description>Underbelly 2x09</description>
+            <enclosure url="http://www.tvnzb.com/nzb/18645" length="117748" type="application/x-nzb"/>
+            <pubDate>Mon, 30 Mar 2009 13:10:05 +0100</pubDate>
+        </item>
+
+    </channel>
+</rss>
