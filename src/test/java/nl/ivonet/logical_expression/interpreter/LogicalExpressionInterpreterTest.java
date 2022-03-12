@@ -42,7 +42,7 @@ public final class LogicalExpressionInterpreterTest {
         final String text = "Hello World.s01e01.Hello People";
         assertFalse("Should fail in Strict interpreting", interpreter.evaluate("Hello & Hello&! Hello", text));
         assertTrue("Hello should be accepted twice", interpreter.evaluate("hello & hello", text));
-        assertTrue("Hello or people should eveluate to true", interpreter.evaluate("(Hello | People) & hello", text));
+        assertTrue("Hello or people should evaluate to true", interpreter.evaluate("(Hello | People) & hello", text));
     }
 
     @Test(expected = IllegalExpressionException.class)

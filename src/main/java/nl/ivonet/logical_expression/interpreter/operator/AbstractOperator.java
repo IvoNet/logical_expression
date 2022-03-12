@@ -27,9 +27,6 @@ import java.util.List;
 abstract class AbstractOperator implements Operator {
     private static final Logger LOG = Logger.getLogger(AbstractOperator.class);
 
-    /**
-     * {@inheritDoc}
-     */
     @Override
     public abstract boolean apply(final List<String> words, final Stack<String> valueStack);
 
